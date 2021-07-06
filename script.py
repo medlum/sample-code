@@ -43,6 +43,6 @@ print("Total is: ", sum)
 # select 'run python in terminal for user input'
 # this will run the whole script
 # output is just to test
-name = input("Your name?")
-print('Hello,', name)
+#name = input("Your name?")
+#print('Hello,', name)
 
